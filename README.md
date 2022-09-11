@@ -8,7 +8,7 @@ A template repository for conversational analysis for the West Lab
     │   ├──── ScribbiePerformance.csv
     │   └──── transcripts
     ├── processing
-    │   └──── MakeConvokitCorpus.ipynb
+    │   └── MakeConvokitCorpus.ipynb
     ├── analysis
     │   ├── LinguisticCoordination.ipynb
     │   ├── DescriptiveStatistics.ipynb

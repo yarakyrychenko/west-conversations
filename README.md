@@ -1,5 +1,5 @@
 # west-conversations
-A template repository for conversational analysis for the West Lab
+A template repository for linguistic analysis of conversations from scratch using Convokit
 
     .
     ├── data

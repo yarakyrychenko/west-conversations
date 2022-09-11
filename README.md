@@ -2,7 +2,6 @@
 A template repository for conversational analysis for the West Lab
 
     .
-    ├── README.md
     ├── data
     │   ├── processed
     │   ├── source
@@ -15,4 +14,5 @@ A template repository for conversational analysis for the West Lab
     │   ├── DescriptiveStatistics.ipynb
     │   └── Politeness.ipynb
     ├── results
-    └── viz
+    ├── viz
+    └── README.md

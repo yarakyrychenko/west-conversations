@@ -4,7 +4,7 @@ A template repository for conversational analysis for the West Lab
     .
     ├── data
     │   ├── processed
-    │   ├── source
+    │   ├── raw
     │   ├──── ScribbiePerformance.csv
     │   └──── transcripts
     ├── processing

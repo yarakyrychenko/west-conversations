@@ -4,9 +4,10 @@ A template repository for conversational analysis for the West Lab
     .
     ├── data
     │   ├── processed
-    │   ├── raw
-    │   ├──── ScribbiePerformance.csv
-    │   └──── transcripts
+    │   │   └── corpus
+    │   └── raw
+    │       ├── master.csv
+    │       └── transcripts
     ├── processing
     │   └── MakeConvokitCorpus.ipynb
     ├── analysis

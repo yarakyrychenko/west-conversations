@@ -13,7 +13,8 @@ A template repository for linguistic analysis of conversations from scratch usin
     ├── analysis
     │   ├── LinguisticCoordination.ipynb
     │   ├── DescriptiveStatistics.ipynb
-    │   └── Politeness.ipynb
+    │   ├── Politeness.ipynb
+    │   └── utils.py
     ├── results
     ├── viz
     └── README.md

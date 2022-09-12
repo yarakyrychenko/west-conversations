@@ -1,3 +1,7 @@
+# To keep your data private, please uncomment the line below
+#data/
+
+# MacBook Finder stuff
 .DS_Store
 
 # Byte-compiled / optimized / DLL files

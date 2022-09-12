@@ -3,7 +3,7 @@
 
 ## Goal
 
-This repository provides a quick way to analyze custom conversational datasets by converting them into a [ConvoKit](https://github.com/CornellNLP/ConvoKit) Corpus object. The ConvoKit module provides many interesting linguistic analyses you can run on your conversation data. This template covers creating a corpus from your data (`MakeConvokitCorpus.ipynb`), basic descriptive statistics (`DescriptiveStatistics.ipynb`), linguistic coordination (`LinguisticCoordination.ipynb`), and politness strategies (`Politeness.ipynb`).
+This repository provides a quick way to analyze custom conversational datasets by converting them into a [ConvoKit](https://github.com/CornellNLP/ConvoKit) Corpus object. The ConvoKit module provides many interesting linguistic analyses you can run on your conversation data. This template covers creating a corpus from your data ([MakeConvokitCorpus.ipynb](https://github.com/yarakyrychenko/west-conversations/blob/39b56af3e3aee36b4a363fdb2f67753958ca4e4a/processing/MakeConvokitCorpus.ipynb)), basic descriptive statistics ([DescriptiveStatistics.ipynb](https://github.com/yarakyrychenko/west-conversations/blob/39b56af3e3aee36b4a363fdb2f67753958ca4e4a/analysis/DescriptiveStatistics.ipynb)), linguistic coordination ([LinguisticCoordination.ipynb](https://github.com/yarakyrychenko/west-conversations/blob/39b56af3e3aee36b4a363fdb2f67753958ca4e4a/analysis/LinguisticCoordination.ipynb)), and politness strategies ([Politeness.ipynb](https://github.com/yarakyrychenko/west-conversations/blob/39b56af3e3aee36b4a363fdb2f67753958ca4e4a/analysis/Politeness.ipynb)).
 
 
 ## Using the Template 

@@ -1,4 +1,4 @@
-# analysis-conversations-template
+# west-conversations
 :star: A template repository for linguistic analysis of conversations from scratch using [ConvoKit](https://github.com/CornellNLP/ConvoKit) 
 
 ## Goal

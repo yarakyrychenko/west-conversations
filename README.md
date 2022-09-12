@@ -13,7 +13,7 @@ This repository provides a quick way to analyze custom conversational datasets b
 - Step 3: Clone it to your local machine (you can use [GitHub Desktop](https://desktop.github.com/)).
 - Step 4: Go to `.gitignore` and uncomment `data/` to keep your data private at all times. 
 - Step 5: Upload your data (`master.csv` and `transcritps`) to your local repostiory. There is an example `master.csv` in this template to help you with formatting. 
-- Step 6: Run `MakeConvokitCorpus.ipynb` to create your corpus. 
+- Step 6: Run [MakeConvokitCorpus.ipynb](https://github.com/yarakyrychenko/west-conversations/blob/39b56af3e3aee36b4a363fdb2f67753958ca4e4a/processing/MakeConvokitCorpus.ipynb) to create your corpus. 
 - Step 7: Check out the python notebooks in the `analysis` folder.
 
 

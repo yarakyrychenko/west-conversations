@@ -17,7 +17,7 @@ This repository provides a quick way to analyze custom conversational datasets b
 - Step 7: Check out the python notebooks in the `analysis` folder.
 
 
-## Repository Contents 
+## Template Structure 
 
     .
     ├── data
